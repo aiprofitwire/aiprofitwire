@@ -4,7 +4,7 @@ I build free, open source tools that help small business owners use AI without t
 
 I also write **The AI Profit Wire**, a newsletter that breaks down new AI launches and what they actually mean for small businesses.
 
-I'm learning to code in public, with AI as my pair programmer. Everything I ship here is free to use, and feedback is always welcome.
+I'm a web developer (AEC in Web and Multimedia) building free, open source tools with AI as my pair programmer. Everything I ship here is free to use, and feedback is always welcome.
 
 ## What I'm working on
 
